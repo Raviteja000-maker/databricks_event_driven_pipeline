@@ -1,4 +1,4 @@
-# 📦 Order Tracking Incremental Load Pipeline
+# 📦 Order Tracking Event Driven Data Ingestion 
 
 This project implements a robust, file-triggered data pipeline in **Databricks** using **Delta Lake**. It efficiently stages and loads order tracking data from raw CSV files into Delta tables with upsert logic for incremental processing.
 
